@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"doki.sticker.css": "background-size:40%;opacity: 0.0;z-index:100;background-position:100% 100%",
+		"doki.statusbar.name": "KazeFX",
+		"doki.sticker.path": ""
+	}
 }
